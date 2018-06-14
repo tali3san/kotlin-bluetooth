@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PillButton">
+        <attr name="pb_fillColor" format="color" />
+        <attr name="pb_borderColor" format="color" />
+        <attr name="pb_borderWidth" format="dimension" />
+    </declare-styleable>
+</resources>
